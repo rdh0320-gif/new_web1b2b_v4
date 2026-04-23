@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body {
-  background-image: url('/images/IMG_1326.jpeg');
+  background-image: url('../images/IMG_1326.jpeg');
   font-size: 16px;
   font-family: 'arial','Apple SD Gothic Neo','NanumGothic',sans-serif;
   color: #333333;
@@ -107,7 +107,7 @@ article h3 {
   margin-bottom: 20px;
   font-size: 28px;
   font-weight: 600;
-  background-image: url('/images/IMG_1335.jpeg');
+  background-image: url('../images/IMG_1335.jpeg');
   background-repeat: no-repeat;
   background-position: left bottom;
   padding: 20px 10px 10px 48px;
