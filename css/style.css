@@ -60,14 +60,14 @@ aside nav h2 {
   margin-bottom: 18px;
   font-size: 22px;
   font-weight: bold;
-  color: #7c5d48;
+  color: #000000;
 }
 aside nav ul {
   font-size: 14px;
 }
 .categoryNav ul li {
   list-style-type: square;
-  color: #7c5d48;
+  color: #000000;
   margin: 0 0 16px 20px;
 }
 .categoryNav ul li a {
@@ -103,7 +103,7 @@ time {
   margin-bottom: 26px;
 }
 article h3 {
-  border-bottom: 2px solid #6ab547;
+  border-bottom: 2px solid #000000;
   margin-bottom: 20px;
   font-size: 28px;
   font-weight: 600;
@@ -120,7 +120,7 @@ article section {
   margin-bottom: 50px;
 }
 footer {
-  background-color: #523f2e;
+  background-color: #000000;
   color: #ffffff;
   text-align: center;
   padding: 14px 10px 20px;
